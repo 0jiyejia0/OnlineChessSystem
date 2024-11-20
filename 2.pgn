@@ -1,0 +1,27 @@
+[Event "111"]
+[Site "Lucas Chess R 2.03b"]
+[Date "2022.10.06"]
+[White "Lc0 v0.28.2"]
+[Black "Stockfish 15"]
+[Result "0-1"]
+[ECO "D14"]
+[TimeControl "600"]
+[PlyCount "182"]
+[Opening "QGD斯拉夫：兑换的变例，6.Bf4 BF5"]
+[Termination "裁定"]
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Nc3 Nf6 5.Nf3 Nc6 6.Bf4 Bf5 7.Qb3 Na5 8.Qa4+ Bd7 
+9.Qc2 e6 10.e3 Bb4 11.Bd3 Rc8 12.O-O O-O 13.Rfc1 a6 14.Qe2 Nh5 15.Be5 f6 16.Ng5
+Qe8 17.Nxh7 fxe5 18.dxe5 Nc4 19.Bxc4 Rxc4 20.Nxf8 Bxf8 21.Qd3 Rg4 22.f3 Rg5 
+23.Qd4 Be7 24.Kf2 Bd8 25.Ne2 Bc6 26.a4 Bc7 27.f4 Qf7 28.Kg1 Rg6 29.Rf1 Qf5 
+30.Rac1 Bd8 31.Rf2 Bh4 32.g3 Bxg3 33.Nxg3 Nxg3 34.hxg3 Rxg3+ 35.Rg2 Rf3 36.Qb6 
+Qe4 37.Rcc2 Rxf4 38.Qd8+ Rf8 39.Qg5 Rf7 40.Rcf2 Qb1+ 41.Kh2 Qh7+ 42.Kg3 Rxf2 
+43.Kxf2 Qc2+ 44.Kg3 Qe4 45.Rh2 Be8 46.Rf2 Bxa4 47.Qd8+ Kh7 48.Qh4+ Qxh4+ 49.Kxh4
+Kg6 50.Kg4 Bd1+ 51.Kf4 Bb3 52.Rh2 b5 53.Rh8 a5 54.Re8 Kf7 55.Rb8 Bc4 56.Rb7+ Kf8
+57.Kg4 a4 58.Rd7 Bf1 59.Kh5 Bc4 60.Ra7 Be2+ 61.Kh4 Bd3 62.Kg3 Bc4 63.Kf4 Be2 
+64.Rb7 Bc4 65.Kg5 Bf1 66.Ra7 Bc4 67.Kg6 Bd3+ 68.Kh5 Bf5 69.Ra5 Bd3 70.Ra6 Be2+ 
+71.Kg5 Bc4 72.Rd6 Ke7 73.Kg6 b4 74.Rb6 a3 75.Rxb4 a2 76.Rb7+ Kd8 77.Ra7 Bb3 
+78.Kxg7 Kc8 79.Kf7 Kb8 80.Ra3 Kc7 81.Ke7 Kc6 82.Kd8 Kc5 83.Ke7 Kc6 84.Kd8 Kc5 
+85.Kd7 Kb4 86.Kd6 Bc4 87.Kc6 Bb3 88.Kd7 Kc5 89.Kxe6 d4+ 90.Kf6 dxe3 91.e6 e2
+
+
